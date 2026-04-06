@@ -20,6 +20,6 @@ function removeLastProduct() {
     logFirstProduct,
     addProduct,
     updateProductName,
-    removeLatProduct
+    removeLastProduct
 
   }
