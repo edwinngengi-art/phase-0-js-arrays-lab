@@ -15,4 +15,11 @@ function updateProductName(position, newName) {
 function removeLastProduct() {
   products.pop();
 }
-console.log("Initial products:", products);
+  module.exports = {
+    products,
+    logFirstProduct,
+    addProduct,
+    updateProductName,
+    removeLatProduct
+
+  }
